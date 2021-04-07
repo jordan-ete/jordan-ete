@@ -7,3 +7,4 @@
 ![](https://img.shields.io/badge/Love-Dogs-informational?style=for-the-badge&logo=furry-network&logoColor=white&color=002679)
 
 # Jordan Lee - Salesforce Developer - ETE Reman
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-ete&theme=prussian" />
